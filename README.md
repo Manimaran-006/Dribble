@@ -267,7 +267,8 @@ footer {
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-05-19 204438.png>)
+![image](https://github.com/user-attachments/assets/4eedb782-1f7b-4247-b7b3-5522b48bb51a)
+
 
 
 ## RESULT:
